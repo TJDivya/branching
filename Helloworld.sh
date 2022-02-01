@@ -5,4 +5,4 @@ date
 echo "Today is a wonderful Day"
 echo "DevOps is the most in demand domain in 2022"
 echo "Heloo Divya Gowda"
-echo "Hope you are doing fine"
+
